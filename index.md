@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: Page
 title: Nav 2018
 ---
 

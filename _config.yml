@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Cristian's Blog
+name: Blog about technologies
+markdown: kramdown
